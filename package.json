@@ -1,0 +1,25 @@
+{
+  "name": "com.tomduchene.unity-favorites-list",
+  "displayName": "Favorites List",
+  "version": "1.0.0",
+  "description": "An editor tool to handle your favorite files",
+  "dependencies": { },
+  "keywords": [
+  "unity",
+	"unity3d",
+  "utility"
+  ],
+  "homepage": "https://github.com/TomDuchene/unity-favorites-list.git",
+  "bugs": {
+    "url": "https://github.com/TomDuchene/unity-favorites-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TomDuchene/unity-favorites-list.git"
+  },
+  "license": "MIT",
+  "author": "Tom Duchene (http://tomduchene.fr/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
