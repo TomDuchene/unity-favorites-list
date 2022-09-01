@@ -3,11 +3,10 @@
   "displayName": "Favorites List",
   "version": "1.0.0",
   "description": "An editor tool to handle your favorite files",
-  "dependencies": { },
   "keywords": [
-  "unity",
-	"unity3d",
-  "utility"
+    "unity",
+    "unity3d",
+    "utility"
   ],
   "homepage": "https://github.com/TomDuchene/unity-favorites-list.git",
   "bugs": {
@@ -21,5 +20,6 @@
   "author": "Tom Duchene (http://tomduchene.fr/)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "type": "Editor tool"
 }
